@@ -193,8 +193,7 @@ class _NoteEditorScreenState extends State<NoteEditorScreen> {
                               maxLength: 100,
                               textInputAction: TextInputAction.next,
                               decoration: const InputDecoration(
-                                hintText: 'Ví dụ: Ý tưởng cho ngày mới',
-                                prefixIcon: Icon(Icons.title_rounded),
+                                hintText: 'Ý tưởng cho ngày mới',
                                 counterText: '',
                               ),
                             ),
